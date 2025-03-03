@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ev-manufacturer-clustering/static/css/main.c6312113.css",
+    "main.js": "/ev-manufacturer-clustering/static/js/main.32142c27.js",
+    "static/js/453.5be5e99c.chunk.js": "/ev-manufacturer-clustering/static/js/453.5be5e99c.chunk.js",
+    "index.html": "/ev-manufacturer-clustering/index.html",
+    "main.c6312113.css.map": "/ev-manufacturer-clustering/static/css/main.c6312113.css.map",
+    "main.32142c27.js.map": "/ev-manufacturer-clustering/static/js/main.32142c27.js.map",
+    "453.5be5e99c.chunk.js.map": "/ev-manufacturer-clustering/static/js/453.5be5e99c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6312113.css",
+    "static/js/main.32142c27.js"
+  ]
+}
